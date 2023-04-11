@@ -1,10 +1,10 @@
 <script>
-  export let quote;
-  const {theJoke} = quote;
+  export let data;
+  const {theJoke} = data;
 </script>
 
 <h1>Epic Chuck Norris Jokes for Epic People</h1>
-<p>{quote}</p>
+<p>{theJoke}</p>
 
 
 
