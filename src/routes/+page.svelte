@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1>Logan's Perfectly Designed Chuck Norris Joke Site</h1>
+<p>Welcome to your one and only place for some of the funniest jokes on the planet. To choose a category, simply click on one of the categories below. You may generate a new joke using the "Generate New Joke" button once you've chosen said category. Please be aware that, sometimes, the same joke may appear twice in a row. This is because your computer would simply explode with laughter and hilarity if TOO many jokes existed in one category. Yeah, that's right. Chuck Norris has a presence so strong, the very idea of making a joke about him gives your computer human emotions. Think about that for a moment.</p>

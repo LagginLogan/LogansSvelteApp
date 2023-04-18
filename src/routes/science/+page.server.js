@@ -1,7 +1,7 @@
 
 // my fetch function
 export async function load({ fetch }) {  
-  const category = 'animal';
+  const category = 'science';
 
   const url = 'https://api.chucknorris.io/jokes/random?category=' + category;
 
@@ -10,8 +10,6 @@ export async function load({ fetch }) {
   const chuckRes = await chuckReq.json();
 
   const theJoke = chuckRes.value;
-
-  console.log(theJoke);
 
   return {
     theJoke

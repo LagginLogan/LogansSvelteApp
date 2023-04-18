@@ -2,10 +2,13 @@
     import '../global.css';
   </script>
   
+
+  
   <nav>
-    <a href="/dadjokes">Dad Jokes</a>
-    <a href="/momjokes">Mom Jokes</a>
-    <a href="/chuckjokes">Chuck Norris Jokes</a>
+    <a href="/career">Animals</a>
+    <a href="/celebrity">Celebrity</a>
+    <a href="/religion">Religion</a>
+    <a href="/science">Science</a>
   </nav>
 
   <main>
