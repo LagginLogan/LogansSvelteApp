@@ -15,6 +15,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@sveltejs/adapter-cloudflare": "^2.2.0",
 		"simpledotcss": "^2.2.0"
 	}
 }
